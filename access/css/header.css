@@ -72,7 +72,7 @@
     background-repeat: no-repeat;
     background-size: 100% 100%;
     /* background-color: #3cc6dc; */
-    background-image: url('/access/img/car.img.png');
+    background-image: url('../img/car.img.png');
 }
 .section-slogan{
     text-align: center;
